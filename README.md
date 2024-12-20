@@ -2,7 +2,7 @@
 
 ## Install dependencies for backend and frontend.
 
-Use ``` npm install ```
+Run ``` npm install ``` in both ```/frontend ```and ```/backend ``` folders.
 
 ## Start development servers
 
