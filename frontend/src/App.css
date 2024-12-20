@@ -1,0 +1,45 @@
+input {
+  padding: 8px;
+}
+
+div {
+  padding: 16px;
+}
+
+button {
+  padding: 10px 8px;
+  margin-left: 8px;
+  outline: none;
+  border: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+
+.add {
+  background-color: rgb(47, 210, 96);
+}
+
+ul {
+  padding: 0;
+  background-color: aliceblue;
+  width: 240px;
+}
+
+li {
+  list-style: none;
+  list-style-type: none;
+  box-sizing: border-box;
+  padding: 8px;
+  width: 100%;
+  border-bottom: 1px solid rgba(186, 186, 186, 0.24);
+}
+
+li:nth-last-of-type(1) {
+  border: none;
+}
+
+span {
+  display: inline-block;
+  width: 160px;
+}
